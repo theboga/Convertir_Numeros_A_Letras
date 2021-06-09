@@ -1,5 +1,5 @@
 # Convertir números a Letras en JavaScript
-Función que convierte un número o cantidad a letras en JavaScript ideal para una factura cheques o sistemas que necesiten mostrar en letra una cantidad  Es personalizable y configurarse para cualquier moneda USD PesosMX etc.
+Función que convierte un número o cantidad a letras en JavaScript ideal para una factura cheques o sistemas que necesiten mostrar en letra una cantidad  Es personalizable y configurarse para cualquier moneda USD PesosMX etc. Con este código se puede implementar en cualquier proyecto javascript o página web para convertir cualquier cantidad en número a letras 
 
 Puedes probar el código Aquí: https://jsfiddle.net/the_boga/k9ms7pxd/4/
 
